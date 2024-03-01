@@ -11,7 +11,7 @@
  
  🔭 I’m currently working on **.NET 8 Web API, React.js and React Native**
  
- 🌱 I’m currently learning **Logging Serilog and ElasticSearch , E-mail Sending with RabbitMQ   =>=>=>  on .NET 8**
+ 🌱 I’m currently learning **Logging with Serilog and ElasticSearch , E-mail Sending with RabbitMQ   =>=>=>  on .NET 8**
 
 💬 I worked on these main matters before  **Flutter, Vue.js, .NetCore Web API, ASP.NET Mvc, MsSQL, jQuery AJAX**
 
