@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Okan+Oguz+TEKBAŞ!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=F77F02&lines=Hi+There!+👋;+I'm+Okan+Oguz+TEKBAŞ!;" />
 </h1>
 
 <h3 align="center">Software Developer from Samsun,TR</h3>
