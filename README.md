@@ -34,6 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,dotnet,cs,javascript,redis,postman,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode" />
 <br>
 </div>
 
