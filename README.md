@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Logging Serilog and ElasticSearch , E-mail Sending with RabbitMQ   =>=>=>  on .NET 8**
 
-💬 I worked on these main matters before  **Flutter, Vue.js, .NetCore Web API, ASP.NET Mvc, MsSQL**
+💬 I worked on these main matters before  **Flutter, Vue.js, .NetCore Web API, ASP.NET Mvc, MsSQL, jQuery AJAX**
 
 💬 I worked on these sub matters before  **Firebase, Using Python Image Processing with RasperyPi, Web Scraping in Mobile Apps, Chrome Extension with JavaScript**
 
@@ -33,7 +33,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,dotnet" />
+    <img src="https://skillicons.dev/icons?i=react,dotnet,redis,postman,raspberrypi,visualstudio,vscode" />
 <br>
 </div>
 
