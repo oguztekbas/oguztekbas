@@ -13,7 +13,7 @@
  
  🌱 I’m currently learning **Logging with Serilog and ElasticSearch , E-mail Sending with RabbitMQ   =>=>=>  on .NET 8**
 
-💬 I worked on these main matters before  **Flutter, Vue.js, .NET Core Web API, ASP.NET Mvc, MsSQL, jQuery AJAX**
+💬 I worked on these main matters before  **Flutter, Vue.js, .NET Core Web API, Asp.NET Mvc, MsSQL, jQuery AJAX**
 
 💬 I worked on these sub matters before  **Firebase, Using Python and OpenCV Image Processing with RasperyPi, Web Scraping in Mobile Apps, Chrome Extension with JavaScript**
 
