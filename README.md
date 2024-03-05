@@ -31,7 +31,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=dotnet,react,cs,javascript,redis,elasticsearch" /><br>
+    <img src="https://skillicons.dev/icons?i=dotnet,react,cs,javascript,redis,elasticsearch,rabbitmq" /><br>
     <img src="https://skillicons.dev/icons?i=postman,visualstudio,vscode" />
 <br>
 </div>
