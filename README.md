@@ -10,8 +10,6 @@
 <div align="center">
  
  🔭 I’m currently working on **.NET 8 Web API, React.js and React Native**
- 
- 🌱 I’m currently learning **E-mail Sending or PDF Creator with RabbitMQ   =>=>=>  on .NET 8**
 
 💬 I worked on these main matters before  **Flutter, Vue.js, .NET Core Web API, Asp.NET Mvc, MsSQL, jQuery AJAX**
 
