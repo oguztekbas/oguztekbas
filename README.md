@@ -10,6 +10,8 @@
 <div align="center">
  
  🔭 I’m currently working on **.NET 8 Web API, React.js and React Native**
+ 
+💬 I will learn Microservice architecture and make progress on React.js until the summer.
 
 💬 I worked on these main matters before  **Flutter, Vue.js, .NET Core Web API, Asp.NET Mvc, MsSQL, jQuery AJAX**
 
