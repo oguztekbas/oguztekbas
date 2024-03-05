@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **.NET 8 Web API, React.js and React Native**
+ 🔭 I’m currently working on **.NET 8 Web API, React.js**
  
 💬 I will learn Microservice architecture and make progress on React.js until the summer.
 
